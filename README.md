@@ -1,3 +1,4 @@
+![Screenshot at 2023-02-06 09-53-38](https://user-images.githubusercontent.com/119459828/217019466-b483f0b7-0f12-48c7-b0f4-83282afa0036.png)
 # CNN_Stock_BuySell
 This project uses a 2-D Convolutional Neural Network based on image processing.
 
